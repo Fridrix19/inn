@@ -302,7 +302,7 @@ body
 }
 
 .desktop .rectangle-2 {
-  background-image: url(/img/photo.jpg);
+  background-image: url(../img/photo.jpg);
   background-size: 100%;
   position: absolute;
   width: 590px;
